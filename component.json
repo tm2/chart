@@ -1,11 +1,10 @@
 {
-  "name": "Chart.js",
+  "name": "chart",
+  "repo": "component/chart",
   "version": "0.1.0",
   "description": "Simple HTML5 Charts using the canvas element",
-  "keywords": ["charts"],
-  "homepage": "https://github.com/nnnick/Chart.js",
+  "keywords": ["charts", "chart", "charting"],
   "author": "nnnick",
-  "main": ["Chart.min.js"],
-  "dependencies": {
-  }
+  "main": ["Chart.js"],
+  "scripts": ["Chart.js"]
 }
