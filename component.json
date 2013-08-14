@@ -5,6 +5,6 @@
   "description": "Simple HTML5 Charts using the canvas element",
   "keywords": ["charts", "chart", "charting"],
   "author": "nnnick",
-  "main": ["Chart.js"],
+  "main": "Chart.js",
   "scripts": ["Chart.js"]
 }
