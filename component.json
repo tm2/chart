@@ -1,6 +1,6 @@
 {
   "name": "chart",
-  "repo": "component/chart",
+  "repo": "tm2/chart",
   "version": "0.1.0",
   "description": "Simple HTML5 Charts using the canvas element",
   "keywords": ["charts", "chart", "charting"],
